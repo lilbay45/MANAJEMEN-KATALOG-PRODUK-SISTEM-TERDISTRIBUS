@@ -1,5 +1,5 @@
 # client_api.py
-#CREATED BY BAINUL REVISI FUNGSI
+#CREATED BY BAINUL REVISI FUNGSII
 import requests
 import json
 import sys
